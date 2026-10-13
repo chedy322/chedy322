@@ -559,6 +559,10 @@ You can explore more of my work through my portfolio:
 
 ## Let's Connect
 
+- 📧 Email: chbouountito@gmail.com
+- 💼 LinkedIn: [Chedy Bououn](www.linkedin.com/in/chedy-bououn-699213168)
+- 🌐 Portfolio: [chedy322.github.io/chedy_portfolio](https://chedy322.github.io/chedy_portfolio/)
+
 I am interested in:
 
 - Software development opportunities
@@ -571,12 +575,6 @@ I am interested in:
 - Interesting technical challenges
 
 Feel free to explore my repositories, open an issue, or connect with me through GitHub.
-
-## Contact
-
-- 📧 Email: chbouountito@gmail.com
-- 💼 LinkedIn: [Chedy Bououn](www.linkedin.com/in/chedy-bououn-699213168)
-- 🌐 Portfolio: [chedy322.github.io/chedy_portfolio](https://chedy322.github.io/chedy_portfolio/)
 
 ---
 
