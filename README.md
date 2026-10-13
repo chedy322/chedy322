@@ -1,6 +1,6 @@
 # Hi, I'm Chedy 👋
 
-## Software Developer | AI & RAG Systems | Full-Stack Applications | .NET | DevOps
+## Software Developer | AI & RAG Systems | Full-Stack Applications | DevOps
 
 I am a software developer who enjoys building practical applications, experimenting with artificial intelligence, and learning modern software engineering practices.
 
