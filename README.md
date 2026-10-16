@@ -1,587 +1,142 @@
-# Hi, I'm Chedy 👋
+<p align="center">
+  <a href="https://github.com/chedy322">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Chedy" alt="Hello! I&#39;m Chedy" />
+  </a>
+</p>
 
-## Software Developer | AI & RAG Systems | Full-Stack Applications | DevOps
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Software%20Developer%20%7C%20AI%20%26%20RAG%20Systems%20%7C%20Full-Stack%20Applications%20%7C%20DevOps" alt="Typing headlines" />
+</p>
 
-I am a software developer who enjoys building practical applications, experimenting with artificial intelligence, and learning modern software engineering practices.
+### 🚀 About Me
 
-My repositories show a strong interest in:
+I am a software developer who enjoys building practical applications, experimenting with artificial intelligence, and learning modern software engineering practices.  
+My repositories show a strong interest in:  
+- Artificial intelligence and Large Language Models  
+- Retrieval-Augmented Generation (RAG) systems  
+- Graph-based knowledge systems  
+- Full-stack web development (.NET, C#, Java, Spring Boot, React, Angular)  
+- Cloud, Docker, CI/CD, and GitHub Actions  
+- Automation tools, API integrations, and secure development workflows  
+-  
+I enjoy turning ideas into working software, exploring new technologies, and improving my development skills through real projects, experiments, university work, and open-source exercises.  
+---  
+## 🔭 Currently  
+- 🔭 **Building:** Applications that combine software engineering with artificial intelligence.  
+- 🤖 **Interested in:** RAG systems, LLM applications, vector search, embeddings, and AI-powered assistants.  
+- 🌱 **Learning:** Cloud development, DevOps, system design, testing, and secure software delivery.  
+- 💻 **Working on:** Frontend, backend, desktop, mobile, and automation projects.  
+- 🧪 **Experimenting with:** New frameworks, APIs, databases, and deployment technologies.  
+- 🚀 **Goal:** Creating useful applications that solve real-world problems.  
+- 📚 **Philosophy:** Learning software development by building, testing, debugging, and improving real projects.  
+---  
+## 🧠 Core Areas of Interest  
+### Artificial Intelligence  
+- Large Language Models &amp; RAG systems  
+- Document question answering &amp; PDF/OCR processing pipelines  
+- Vector databases, semantic search &amp; Sentence Transformers  
+- Prompt engineering &amp; AI-powered chatbots  
+- Graph-based retrieval systems &amp; AI news aggregation  
+### Full-Stack &amp; Backend Development  
+- **Frontend:** React, Angular, JavaScript, TypeScript, HTML/CSS, Bootstrap  
+- **Backend:** Node.js, Express, Spring Boot, Java, C#, Python  
+- **Databases &amp; Services:** REST APIs, MySQL, Redis, Firebase, OAuth2 authentication, Gmail &amp; Telegram APIs  
+### DevOps &amp; Software Engineering  
+- Docker, Docker Compose, &amp; Infrastructure as Code (Terraform)  
+- GitHub Actions &amp; CI/CD pipelines  
+- Repository security &amp; secure supply-chain practices  
+- Automated testing &amp; background workers (Celery)  
+---  
+## 🚀 Featured Projects  
+### 🧠 [Attijary Graph RAG](https://github.com/chedy322/Attijary-graph-rag)  
+A graph-based Retrieval-Augmented Generation project built around document processing, AI retrieval, and knowledge exploration.  
+- **Tech Stack:** Python, Graph RAG, Angular, Celery, Docker, Terraform, Tesseract OCR, Unstructured processing.  
+### 🔎 [Python RAG System](https://github.com/chedy322/python-rag-system)  
+A Python project focused on building a Retrieval-Augmented Generation workflow for working with documents and language models.  
+- **Key Features:** Document ingestion, text embeddings, semantic retrieval, and context-aware generation.  
+### 📦 [Product Management System](https://github.com/chedy322/Product-Management-System)  
+A product management application demonstrating backend architecture, UML system modeling, and Redis caching integration.  
+### 📚 [RAG System with Sentence Transformers](https://github.com/chedy322/RagSystemWithSentenceTransformer)  
+An experimental project using Sentence Transformers and semantic embeddings to retrieve relevant information for semantic search and question answering.  
+### 🤖 [LLM Telegram Bot](https://github.com/chedy322/LLM-Telegram-Bot)  
+A Telegram-based AI application that connects users with language-model functionality for conversational workflows.  
+- **Tech Stack:** JavaScript, Telegram Bot API, LLM APIs, Node.js backend.  
+### 📬 [Gmail Telegram Bot](https://github.com/chedy322/LLM-Telegram-Bot)  
+A Telegram bot allowing users to manage their Gmail inbox directly through Telegram interface.  
+- **Key Features:** Google OAuth2, email viewing/searching/sending, secure account linking.  
+- **Tech Stack:** Node.js, Express, Telegram Bot API, Gmail API.  
+### 👥 [Employee Management System](https://github.com/chedy322/Employee-Management-Sys)  
+A full-stack enterprise application for managing employee data with persistent MySQL storage and responsive Bootstrap UI.  
+- **Tech Stack:** React, Vite, Spring Boot, Java REST APIs, MySQL.
 
-- Artificial intelligence and Large Language Models
-- Retrieval-Augmented Generation systems
-- Graph-based knowledge systems
-- Full-stack web development
-- .NET and C# application development
-- Java and Spring Boot applications
-- React, Angular, JavaScript, and TypeScript
-- Databases and backend systems
-- Docker, CI/CD, and GitHub Actions
-- Automation tools and API integrations
-- Software testing and secure development workflows
+### 🛠️ Tech Stack
 
-I enjoy turning ideas into working software, exploring new technologies, and improving my development skills through real projects, experiments, university work, and open-source exercises.
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
----
+### 🔗 Connect With Me
 
-## About Me
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/chedy-bououn-699213168"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://chedy322.github.io/chedy_portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:chbouountito@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- 🔭 I am building applications that combine software engineering with artificial intelligence.
-- 🤖 I am particularly interested in RAG systems, LLM applications, vector search, embeddings, and AI-powered assistants.
-- 🌱 I am continuously improving my knowledge of cloud development, DevOps, system design, testing, and secure software delivery.
-- 💻 I work across frontend, backend, desktop, mobile, and automation projects.
-- 🧪 I enjoy experimenting with new frameworks, APIs, databases, and deployment technologies.
-- 🚀 I like creating useful applications that solve real-world problems.
-- 📚 I believe the best way to learn software development is by building, testing, debugging, and improving real projects.
+### 📊 GitHub Stats
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=chedy322&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=chedy322&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-## Core Areas of Interest
+### 📈 Contribution Graph
 
-### Artificial Intelligence
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=chedy322&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-I have worked on several AI-related projects involving:
+### 💭 Dev Quote
 
-- Large Language Models
-- Retrieval-Augmented Generation
-- Document question answering
-- Vector databases and semantic search
-- Sentence Transformers
-- Prompt engineering
-- AI-powered chatbots
-- Telegram bots using LLM APIs
-- AI news aggregation
-- Graph-based retrieval systems
-- PDF processing and OCR pipelines
-
-### Full-Stack Development
-
-I have built full-stack applications using technologies such as:
-
-- React
-- Angular
-- JavaScript
-- TypeScript
-- HTML and CSS
-- Bootstrap
-- Spring Boot
-- Node.js
-- Express
-- Java
-- C#
-- MySQL
-- Redis
-- Firebase
-
-### Backend Development
-
-My backend experience includes:
-
-- REST APIs
-- CRUD applications
-- Authentication and OAuth2
-- Gmail API integrations
-- Telegram bot APIs
-- Database-backed applications
-- Spring Boot services
-- Node.js services
-- Python applications
-- Java and .NET applications
-
-### DevOps and Software Engineering
-
-I am also interested in:
-
-- Docker and Docker Compose
-- GitHub Actions
-- CI/CD pipelines
-- Automated testing
-- Repository security
-- Infrastructure as Code
-- Terraform
-- Background workers
-- Celery
-- Application deployment
-- Secure dependency and supply-chain practices
-
----
-
-## Featured Projects
-
-### 🧠 Attijary Graph RAG
-
-A graph-based Retrieval-Augmented Generation project built around document processing, AI retrieval, and knowledge exploration.
-
-**Technologies and concepts include:**
-
-- Python
-- Graph RAG
-- Angular
-- Celery
-- Docker
-- Terraform
-- PDF processing
-- OCR
-- Tesseract
-- Poppler
-- Unstructured document processing
-- Background workers
-- AI-powered retrieval
-
-🔗 [View Attijary Graph RAG](https://github.com/chedy322/Attijary-graph-rag)
-
----
-
-### 🔎 Python RAG System
-
-A Python project focused on building a Retrieval-Augmented Generation workflow for working with documents and language models.
-
-This project represents my interest in combining:
-
-- Document ingestion
-- Text processing
-- Embeddings
-- Semantic retrieval
-- Context-aware generation
-- AI-assisted question answering
-
-🔗 [View Python RAG System](https://github.com/chedy322/python-rag-system)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-### 📚 RAG System with Sentence Transformers
-
-An experimental project using Sentence Transformers and semantic embeddings to retrieve relevant information from data.
-
-This type of system is useful for:
-
-- Semantic search
-- Document similarity
-- Recommendation systems
-- Question answering
-- Knowledge retrieval
-- AI assistants
-
-🔗 [View RAG System with Sentence Transformers](https://github.com/chedy322/RagSystemWithSentenceTransformer)
-
----
-
-### 🧮 Vector Search Engine
-
-A project exploring vector search and similarity-based information retrieval.
-
-The project reflects my interest in how modern AI systems represent text as vectors and use those representations to find relevant information.
-
-🔗 [View Vector Search Engine](https://github.com/chedy322/Vector-Search-Engine)
-
----
-
-### 🤖 LLM Telegram Bot
-
-A Telegram-based AI application that connects users with language-model functionality.
-
-This project combines:
-
-- JavaScript
-- Telegram bot development
-- LLM APIs
-- Conversational workflows
-- Backend integration
-- User interaction handling
-
-🔗 [View LLM Telegram Bot](https://github.com/chedy322/LLM-Telegram-Bot)
-
----
-
-### 📬 Gmail Telegram Bot
-
-A Telegram bot that allows users to interact with Gmail through Telegram.
-
-The application includes functionality for:
-
-- Google OAuth2 authentication
-- Viewing inbox messages
-- Reading emails
-- Sending emails
-- Searching emails
-- Viewing the connected account
-- Logging out securely
-
-**Technologies include:**
-
-- Node.js
-- Express
-- Telegram Bot API
-- Gmail API
-- Google OAuth2
-- JavaScript
-
-🔗 [View Gmail Telegram Bot](https://github.com/chedy322/LLM-Telegram-Bot)
-
----
-
-### 👥 Employee Management System
-
-A full-stack employee management application built with a React frontend and Spring Boot backend.
-
-The application supports:
-
-- Viewing employees
-- Adding employees
-- Updating employee details
-- Deleting employees
-- Form validation
-- RESTful APIs
-- Persistent MySQL storage
-- Responsive Bootstrap UI
-
-**Technology stack:**
-
-- React
-- Vite
-- JavaScript
-- Bootstrap
-- Axios
-- Spring Boot
-- Java
-- REST APIs
-- MySQL
-
-🔗 [View Employee Management System](https://github.com/chedy322/Employee-Management-Sys)
-
----
-
-### 📦 Product Management System
-
-A product management application focused on backend and enterprise-style application development.
-
-The project demonstrates experience with:
-
-- Product management workflows
-- Database-backed application design
-- UML and system modeling
-- Backend architecture
-- Redis integration
-- Enterprise application concepts
-
-🔗 [View Product Management System](https://github.com/chedy322/Product-Management-System)
-
----
-
-### 🐳 Open Source CI/CD and Docker Compose
-
-A collection of Docker Compose examples and infrastructure configurations for running multi-service applications.
-
-The project explores combinations such as:
-
-- React with Spring Boot and MySQL
-- React with Express and MySQL
-- Flask with Redis
-- Flask with MongoDB
-- Node.js with Redis
-- NGINX with backend services
-- PostgreSQL with pgAdmin
-- Angular applications
-- PHP with Apache
-- Prometheus and Grafana
-- WordPress and MySQL
-
-This repository reflects my interest in:
-
-- Containerization
-- Local development environments
-- Service orchestration
-- Deployment workflows
-- CI/CD
-- Infrastructure automation
-
-🔗 [View Docker and CI/CD Projects](https://github.com/chedy322/open-source-ci-cd-v1)
-
----
-
-### 🎨 Painting .NET
-
-A C# and .NET application exploring desktop software development and graphical application concepts.
-
-🔗 [View Painting .NET](https://github.com/chedy322/painting.Net)
-
----
-
-### 🖥️ Windows Forms Applications
-
-I have also worked on Windows Forms and .NET university projects involving desktop interfaces, application logic, and event-driven programming.
-
-🔗 [View Windows Forms Project](https://github.com/chedy322/WindowsFormsApp17.02.2026)
-
----
-
-### 🌐 Developer Portfolio
-
-My portfolio project contains a collection of my skills, projects, and development work.
-
-🔗 [Visit My Portfolio](https://chedy322.github.io/chedy_portfolio/)
-
-🔗 [View Portfolio Repository](https://github.com/chedy322/chedy_portfolio)
-
----
-
-## Technology Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend and Frameworks
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Artificial Intelligence
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-Areas of experience and exploration:
-
-- LLM applications
-- Retrieval-Augmented Generation
-- Graph RAG
-- Vector search
-- Embeddings
-- Sentence Transformers
-- Prompt engineering
-- OCR and document processing
-- AI-powered chatbots
-- Information retrieval
-
-### Databases and Storage
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### DevOps and Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## What I Have Built
-
-My repositories cover a wide range of application types, including:
-
-### AI and Automation
-
-- RAG systems
-- Vector search applications
-- LLM chatbots
-- Telegram bots
-- AI news aggregation
-- Prompt engineering experiments
-- Gmail automation through Telegram
-- Document processing and OCR workflows
-
-### Web Applications
-
-- Employee management systems
-- Product management platforms
-- Library applications
-- Real-estate applications
-- Expense trackers
-- Notes applications
-- Blog applications
-- URL shorteners
-- Country and weather applications
-- Food and restaurant interfaces
-- Chat applications
-- Portfolio websites
-
-### Desktop Applications
-
-- C# and .NET university projects
-- Windows Forms applications
-- Painting and graphical applications
-- Software development exercises
-
-### Development and Infrastructure
-
-- GitHub Actions workflows
-- CI/CD training projects
-- Docker Compose environments
-- Multi-service application stacks
-- Repository security exercises
-- Automated testing projects
-- Terraform infrastructure experiments
-
----
-
-## Development Philosophy
-
-I try to approach software development with a practical and continuous-learning mindset:
-
-1. **Build real projects**  
-   I learn by creating complete applications rather than only studying isolated concepts.
-
-2. **Explore different technologies**  
-   Working across Python, JavaScript, TypeScript, Java, C#, React, Angular, Spring Boot, and .NET helps me understand different approaches to software design.
-
-3. **Focus on useful solutions**  
-   Many of my projects are based on practical problems such as employee management, product management, document search, email automation, chatbots, and personal productivity.
-
-4. **Improve through experimentation**  
-   My repositories include prototypes, exercises, experiments, and more complete applications. Each project represents a step in my learning process.
-
-5. **Understand the complete development lifecycle**  
-   I am interested not only in writing code, but also in testing, containerization, deployment, security, automation, and maintainability.
-
----
-
-## Currently Exploring
-
-I am especially interested in developing my knowledge in the following areas:
-
-- Production-ready RAG architectures
-- Graph databases and Graph RAG
-- Advanced vector search
-- LLM evaluation
-- AI agents and tool-using systems
-- Document intelligence
-- Multi-service application architecture
-- Cloud deployment
-- Kubernetes and container orchestration
-- Secure CI/CD pipelines
-- Automated testing
-- System design
-- Scalable backend services
-- Observability and monitoring
-- API security and authentication
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chedy322&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chedy322&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=chedy322&theme=tokyonight&hide_border=true)
-
----
-
-## Selected Repository Categories
-
-### Artificial Intelligence and RAG
-
-- [Attijary Graph RAG](https://github.com/chedy322/Attijary-graph-rag)
-- [Python RAG System](https://github.com/chedy322/python-rag-system)
-- [RAG System with Sentence Transformers](https://github.com/chedy322/RagSystemWithSentenceTransformer)
-- [Vector Search Engine](https://github.com/chedy322/Vector-Search-Engine)
-- [Prompt Engineering Chatbot](https://github.com/chedy322/Prompt-Engineering-chatbot)
-- [LLMv1](https://github.com/chedy322/LLMv1)
-- [AI News Aggregator](https://github.com/chedy322/Ai-News-Aggregator)
-
-### Bots and Integrations
-
-- [LLM Telegram Bot](https://github.com/chedy322/LLM-Telegram-Bot)
-- [Gemini Telegram Bot](https://github.com/chedy322/Gemini-Teleegram-Bot)
-- [Gmail Telegram Bot](https://github.com/chedy322/LLM-Telegram-Bot)
-- [OpenAI Experiments](https://github.com/chedy322/openai)
-- [TikTok Comment Bot](https://github.com/chedy322/tiktok-comment-bot)
-
-### Full-Stack Applications
-
-- [Employee Management System](https://github.com/chedy322/Employee-Management-Sys)
-- [Product Management System](https://github.com/chedy322/Product-Management-System)
-- [Library Application](https://github.com/chedy322/library)
-- [Library Backend](https://github.com/chedy322/library_backend)
-- [Full-Stack Chat](https://github.com/chedy322/fullstack_chat)
-- [Real Estate Application](https://github.com/chedy322/real-estate)
-- [Notes Application](https://github.com/chedy322/notesapp)
-- [Expense Tracker](https://github.com/chedy322/expense_tracker)
-- [URL Shortener](https://github.com/chedy322/url_shortener)
-
-### .NET and C# Projects
-
-- [Painting .NET](https://github.com/chedy322/painting.Net)
-- [Windows Forms Application](https://github.com/chedy322/WindowsFormsApp17.02.2026)
-- [.NET University Task](https://github.com/chedy322/.Net-university-task)
-- [Software Development Task](https://github.com/chedy322/Task1_ex2_Software_Devlopment)
-- [Exam Project](https://github.com/chedy322/Exam2022pavasaris)
-- [Software Testing Homework](https://github.com/chedy322/sw-test-homework)
-
-### DevOps, CI/CD, and GitHub
-
-- [Open Source CI/CD](https://github.com/chedy322/open-source-ci-cd-v1)
-- [CI/CD Training](https://github.com/chedy322/ci-cd-training)
-- [Testing with GitHub Actions](https://github.com/chedy322/skills-test-with-actions)
-- [GitHub Actions Exercises](https://github.com/chedy322/skills-hello-github-actions)
-- [Secure Repository Supply Chain](https://github.com/chedy322/skills-secure-repository-supply-chain)
-- [GitHub Introduction Exercises](https://github.com/chedy322/skills-introduction-to-github)
-
-### Web and Frontend Projects
-
-- [Developer Portfolio](https://github.com/chedy322/chedy_portfolio)
-- [Food React Application](https://github.com/chedy322/food-react)
-- [Mobile Application](https://github.com/chedy322/mobile_app)
-- [Blog Application](https://github.com/chedy322/blog)
-- [Country Application](https://github.com/chedy322/country)
-- [Firebase Project](https://github.com/chedy322/firebase_project)
-- [JavaScript Projects](https://github.com/chedy322/js)
-
----
-
-## Portfolio
-
-You can explore more of my work through my portfolio:
-
-**[Visit my portfolio](https://chedy322.github.io/chedy_portfolio/)**
-
----
-
-## Let's Connect
-
-- 📧 Email: chbouountito@gmail.com
-- 💼 LinkedIn: [Chedy Bououn](www.linkedin.com/in/chedy-bououn-699213168)
-- 🌐 Portfolio: [chedy322.github.io/chedy_portfolio](https://chedy322.github.io/chedy_portfolio/)
-
-I am interested in:
-
-- Software development opportunities
-- AI and RAG projects
-- Full-stack application development
-- Backend engineering
-- .NET and Java development
-- Open-source collaboration
-- DevOps and automation
-- Interesting technical challenges
-
-Feel free to explore my repositories, open an issue, or connect with me through GitHub.
-
----
-
-## Thanks for Visiting
-
-Thanks for visiting my profile.
-
-I am always learning, building, and experimenting with new technologies. Every repository represents part of my journey as a developer.
-
-⭐ If you find one of my projects useful, feel free to star it!
+<p align="center"><i>⭐️ From <a href="https://github.com/chedy322">chedy322</a></i></p>
